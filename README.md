@@ -10,3 +10,6 @@ Lately I’ve been working on:
 6) I also make fun, slightly trippy websites!
 
 IM BIG INTO THE MOTO - BUILD IT! TEST IT! CLEAN IT! & SHIP IT!🚀✨
+
+To view all my projects, click here → [My Repositories](https://github.com/SanjithGanesh?tab=repositories)
+
